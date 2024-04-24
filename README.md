@@ -12,7 +12,4 @@ Skills: Python / DJANGO / JS / HTML / CSS
 - 💬 Ask me about anything, I am happy to help  
 - 📫 How to reach me: ak.siliveri.25@gmail.com 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayKumar-Siliveri&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/AjayKumar-Siliveri)  
+ 
