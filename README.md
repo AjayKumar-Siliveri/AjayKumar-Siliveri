@@ -10,7 +10,7 @@ Skills: Python / DJANGO / JS / HTML / CSS
 - 🔭 I’m currently working on Full-Stack Web Development 
 - 🌱 I’m currently learning Data Structures and Algorithms, Tools and technologies 
 - 💬 Ask me about anything, I am happy to help  
-- 📫 How to reach me: siliveriajaykumar@gmail.com 
+- 📫 How to reach me: ak.siliveri.25@gmail.com 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayKumar-Siliveri&show_icons=true)  
