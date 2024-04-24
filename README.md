@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ajay Kumar Siliveri
-#### I am a software engineer. I love programming, reading, writing and speaking.
+#### I am a sr software engineer. I love programming, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+As a sr software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
